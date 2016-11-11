@@ -1,0 +1,11 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "imge/game_bg.jpg",
+      "imge/progress.png"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
